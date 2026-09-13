@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "first100": {
+      "type": "http",
+      "url": "https://firsthundred.app/api/mcp",
+      "headers": { "Authorization": "Bearer ${FIRST100_API_KEY}" }
+    }
+  }
+}
