@@ -17,7 +17,7 @@ export FIRST100_API_KEY=f100_...   # from https://firsthundred.app/dashboard/key
 
 The plugin adds the First100 MCP server and three skills (below).
 
-Not on Claude Code? claude.ai, Claude Desktop and ChatGPT take `https://firsthundred.app/api/mcp` as a custom connector (OAuth, no key); Codex, Cursor, Windsurf and Zed instructions are at https://firsthundred.app/docs/clients.
+Not on Claude Code? claude.ai and Claude Desktop take `https://firsthundred.app/api/mcp` as a custom connector; ChatGPT (paid plans) adds it under Plugins after turning on Developer mode (OAuth, no key); Codex, Cursor, Windsurf and Zed instructions are at https://firsthundred.app/docs/clients.
 
 ## Skills
 
