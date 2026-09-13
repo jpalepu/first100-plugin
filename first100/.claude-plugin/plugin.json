@@ -1,6 +1,6 @@
 {
   "name": "first100",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Go-to-market tools for Claude: publish and schedule social posts, find customers, run SEO checks, send outreach. Needs a First100 API key in FIRST100_API_KEY.",
   "author": { "name": "First100", "url": "https://firsthundred.app" },
   "homepage": "https://firsthundred.app",

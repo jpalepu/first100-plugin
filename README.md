@@ -24,5 +24,6 @@ Not on Claude Code? claude.ai, Claude Desktop and ChatGPT take `https://firsthun
 - `content-plan`: plan, write, review and queue posts.
 - `blog-post`: research and write a blog post that earns links and AI citations.
 - `growth-review`: weekly review of what worked, the funnel, and what to change.
+- `morning-brief`: the daily page: numbers, replies to make now, the post to publish.
 
 The skills are thin on purpose: the rules, targets and the account's own performance findings come from the First100 server at run time.

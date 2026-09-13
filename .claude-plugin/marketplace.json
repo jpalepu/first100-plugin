@@ -7,7 +7,7 @@
       "name": "first100",
       "source": "./first100",
       "description": "Publish and schedule posts on X, LinkedIn, Threads and Bluesky, find communities and businesses, run SEO checks, send cold email. Includes a weekly content-plan skill.",
-      "version": "2.2.0",
+      "version": "2.3.0",
       "category": "marketing",
       "keywords": ["social media", "go-to-market", "scheduling", "outreach", "seo"]
     }
