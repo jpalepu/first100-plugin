@@ -5,4 +5,6 @@ description: Weekly growth review through First100: what worked, the funnel from
 
 # Growth review
 
+Needs the `first100-core` MCP server (https://firsthundred.app/api/mcp/core).
+
 Run the `growth_review` MCP prompt and follow it. It uses `what_worked`, `get_funnel` and `get_content_context`, and ends with three concrete changes the user confirms before you apply them.

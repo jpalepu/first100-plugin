@@ -1,7 +1,7 @@
 {
   "name": "first100",
-  "version": "2.3.0",
-  "description": "Go-to-market tools for Claude: publish and schedule social posts, find customers, run SEO checks, send outreach. Needs a First100 API key in FIRST100_API_KEY.",
+  "version": "2.4.0",
+  "description": "Go-to-market tools for Claude: publish and schedule social posts, find customers, run SEO checks, send outreach. Three servers (core, seo, outreach) so each skill loads only its tools. Needs a First100 API key in FIRST100_API_KEY.",
   "author": { "name": "First100", "url": "https://firsthundred.app" },
   "homepage": "https://firsthundred.app",
   "license": "MIT",

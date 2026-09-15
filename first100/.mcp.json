@@ -1,8 +1,18 @@
 {
   "mcpServers": {
-    "first100": {
+    "first100-core": {
       "type": "http",
-      "url": "https://firsthundred.app/api/mcp",
+      "url": "https://firsthundred.app/api/mcp/core",
+      "headers": { "Authorization": "Bearer ${FIRST100_API_KEY}" }
+    },
+    "first100-seo": {
+      "type": "http",
+      "url": "https://firsthundred.app/api/mcp/seo",
+      "headers": { "Authorization": "Bearer ${FIRST100_API_KEY}" }
+    },
+    "first100-outreach": {
+      "type": "http",
+      "url": "https://firsthundred.app/api/mcp/outreach",
       "headers": { "Authorization": "Bearer ${FIRST100_API_KEY}" }
     }
   }

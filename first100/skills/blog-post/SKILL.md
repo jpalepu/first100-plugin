@@ -5,4 +5,6 @@ description: Research and write a blog post built to earn links and AI citations
 
 # Blog post
 
+Needs the `first100-seo` MCP server (https://firsthundred.app/api/mcp/seo).
+
 Run the `write_blog` MCP prompt with the topic (and competitor URLs if the user names any) and follow it: `research_blog` for the brief and targets, write the markdown, `review_blog` until the verdict is `ready`. Ask the user for the company-specific facts the brief marks as missing rather than inventing them.

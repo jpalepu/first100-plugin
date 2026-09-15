@@ -5,6 +5,8 @@ description: Plan, write, review and queue social posts through First100. Use wh
 
 # Content plan
 
+Needs the `first100-core` MCP server (https://firsthundred.app/api/mcp/core).
+
 First100 holds the brand memory, the writing rules, the account's own performance findings, the slots, the drafts and the queue. Follow its instructions, not generic advice.
 
 1. Run the `plan_content` MCP prompt (or call `get_content_context`, then `what_worked`) and follow the steps it returns. The context carries the rules and what this account's numbers say.
